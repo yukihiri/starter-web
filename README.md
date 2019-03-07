@@ -13,7 +13,7 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 
-I am not sure how to do it.
+Please for this repository and then issue Pull Requests for review.
 
 ### Copyright
 

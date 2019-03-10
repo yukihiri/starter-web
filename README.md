@@ -18,4 +18,4 @@ Please for this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2019 Git.Training. 3/7 -master
+2019 Git.Training. All right reserved.
